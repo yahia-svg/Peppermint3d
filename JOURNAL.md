@@ -1,1 +1,6 @@
-
+## Total Hours: 7
+### 7/27/2025
+As a complete noob to 3d printing and hardware I felt completely lost at first, so I started researching. I researched the different kinds of 3d printers and I finally settled on the bed slinger. I chose the bed slinger because it's a great choice for a first builds due to its simplicity and intuitive design. When choosing the specs for my printer I was focused on making it cheap and precise, therefore I've decided to use linear rails for the X and Y axis for precision and a lead screw actuator and v slot rails for the Z axis instead of linear rails to reduce costs. For the print head, I decided to use a direct drive bmg extruder to reduce stringing, and I coupled it with the e3d v6 volcano hotend, since it was really cheap and good enough for my needs, I also added a proximity sensor. For the print volume, I decided to go with 214*214*250 which is mostly sufficient for the things I print. To run this entire thing I decided to go with the BIGTREETECH SKR MINI E3 V3.0 board, because it's really cheap, and really well docummented. I also estimated to cost to be 290USD based on local prices.
+Time Elapsed: 7 Hrs 
+### 7/28/2025
+I hopped on fusion360 and got straight to designing
