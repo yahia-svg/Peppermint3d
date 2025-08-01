@@ -23,5 +23,5 @@ I decided to lock in and I finished the entire z axis! I used openbuilds univers
 #### Time Elapsed: 4 Hrs 
 ### 8/1/2025
 Speedran the x axis and printhead because of the deadline
-![Screenshot](https://raw.githubusercontent.com/yahia-svg/Peppermint3d/main/img/speed.png)
+![Screenshot](https://raw.githubusercontent.com/yahia-svg/Peppermint3d/main/img/spped.png)
 #### Time Elapsed: 3 Hrs 
