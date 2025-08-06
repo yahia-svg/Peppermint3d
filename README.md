@@ -1,10 +1,10 @@
-# Peppermint3d
+<img width="430" height="216" alt="image" src="https://github.com/user-attachments/assets/ff5dba67-082d-4142-bcda-3c05d70e85d0" /># Peppermint3d
 This is my fully custom designed bed slinger. I tried to make it as structurally sound as possible, by using mostly metal components like the opengantry universal plate and a ridgid aluminum frame, whilst still being fairly simple so i'd be able to build it as a beginner
 # Motivation
 I made this project because I was completely new to designing 3d printers and I thought this would be a great first printer. Additionally, this would help me so much with developing other hardware projects because the 3d printing service that I use is slow and expensive.
 # Design
 ![Screenshot](https://github.com/yahia-svg/Peppermint3d/blob/main/img/image.png?raw=true)
-![video](https://github.com/yahia-svg/Peppermint3d/blob/main/img/Peppermint3d_%20(Yahia)%20-%20Autodesk%20Fusion%20Personal%20(Not%20for%20Commercial%20Use)%20%202025-08-06%2009-34-35.mp4)
+[![video](https://img.youtube.com/vi/M26KKw5ZoOQ/0.jpg)](https://youtu.be/M26KKw5ZoOQ)
 ![Screenshot](https://github.com/yahia-svg/Peppermint3d/blob/main/img/Screenshot%202025-08-06%20234610.png\?raw=true)
 
 # BOM
