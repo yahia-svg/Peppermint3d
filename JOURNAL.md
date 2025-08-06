@@ -1,4 +1,9 @@
-## Total Hours: 15.5
+## Total Hours: 19.5
+title: "Peppermint3d"
+author: "Yahia Haggag"
+description: "My first custom bed slinger 3d printer designed to be sturdy and sleek"
+created_at: "2025-07-27"
+
 ### 7/27/2025
 As a complete noob to 3d printing and hardware I felt completely lost at first, so I started researching. I researched the different kinds of 3d printers and I finally settled on the bed slinger. I chose the bed slinger because it's a great choice for a first builds due to its simplicity and intuitive design. When choosing the specs for my printer I was focused on making it cheap and precise, therefore I've decided to use linear rails for the X and Y axis for precision and a lead screw actuator and v slot rails for the Z axis instead of linear rails to reduce costs. For the print head, I decided to use a direct drive bmg extruder to reduce stringing, and I coupled it with the e3d v6 volcano hotend, since it was really cheap and good enough for my needs, I also added a proximity sensor. For the print volume, I decided to go with 214*214*250 which is mostly sufficient for the things I print. To run this entire thing I decided to go with the BIGTREETECH SKR MINI E3 V3.0 board, because it's really cheap, really well docummented and runs klipper. I also estimated to cost to be 290USD based on local prices.
 #### Time Elapsed: 7 Hrs 
@@ -25,3 +30,8 @@ I decided to lock in and I finished the entire z axis! I used openbuilds univers
 Speedran the x axis and printhead because of the deadline
 ![Screenshot](https://raw.githubusercontent.com/yahia-svg/Peppermint3d/main/img/spped.png)
 #### Time Elapsed: 3 Hrs 
+### 8/5/2025
+Completely revamped the design of the printhead and added a printhead cover after discovering a major flaw in how the printhead was assembeled.
+![Screenshot](https://github.com/yahia-svg/Peppermint3d/blob/main/img/Screenshot%202025-08-06%20094003.png?raw=true)
+![Screenshot](https://github.com/yahia-svg/Peppermint3d/blob/main/img/Screenshot%202025-08-06%20093955.png?raw=true)
+#### Time Elapsed: 4 Hrs 
