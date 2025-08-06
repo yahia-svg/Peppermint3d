@@ -4,6 +4,9 @@ This is my fully custom designed bed slinger. I tried to make it as structurally
 I made this project because I was completely new to designing 3d printers and I thought this would be a great first printer. Additionally, this would help me so much with developing other hardware projects because the 3d printing service that I use is slow and expensive.
 # Design
 ![Screenshot](https://github.com/yahia-svg/Peppermint3d/blob/main/img/image.png?raw=true)
+![video](img/your-video.mp4)
+![Screenshot](https://github.com/yahia-svg/Peppermint3d/blob/main/img/Screenshot%202025-08-06%20234610.png\?raw=true)
+
 # BOM
 | QUANTITY | NAME                                                | COST       | LINK                                                                                                                    | Notes                                                        |
 |----------|-----------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
